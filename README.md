@@ -1,1 +1,1 @@
-# small-ai-model-low-iq
+# My small AI Model
